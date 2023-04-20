@@ -24,8 +24,31 @@ In this study, a tool was built using Python to automatically digitise subsurfac
 
 The outcomes from this study demonstrate the potential of using automated tools in the field of geology to improve data analysis and visualisation. The use of Python in this study highlights the benefits of using programming languages to streamline and automate data analysis processes. Further research in this area could focus on expanding the capabilities of the tool to include additional data types, such as seismic or gravity data. Additionally, the use of ML algorithms could further improve the accuracy and efficiency of the data digitisation process.
 
+![Example](https://i.imgur.com/prUy7Nn.jpg)
 
+![Example](https://i.imgur.com/KEL7ltX.png)
 
+![Example](https://i.imgur.com/gCNfPX3.png)
+
+![Example](https://i.imgur.com/VFwnr8Z.png)
+
+![Example](https://i.imgur.com/hrbY2t5.png)
+
+![Example](https://i.imgur.com/Nl6gukX.png)
+
+![Example](https://i.imgur.com/EOhNDS3.png)
+
+![Example](https://i.imgur.com/mg2XY6o.png)
+
+![Example](https://i.imgur.com/Tpakohx.png)
+
+![Example](https://i.imgur.com/vSR3xWB.png)
+
+![Example](https://i.imgur.com/gfiCROq.png)
+
+![Example](https://i.imgur.com/szdOWvU.png)
+
+![Example](https://i.imgur.com/BeGXWdJ.png)
 
 Acknowledgements 
 =================
