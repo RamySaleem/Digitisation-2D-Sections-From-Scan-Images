@@ -16,6 +16,8 @@ Data and Materials
 
 The dataset has been divided into four sub-study areas labelled as Area -1, Area -2, Area -3, and Area -4. Area -1 covers the Tectonic map of the Emscher and Essener main field with 14 vertical sections, one legend, and no diagrams or sketches. This sub-study area is located in the Western Ruhr region, which is one of the main field areas for mining. Area -2 includes the Tectonic map of the Bochumer Hauptmulde, which contains 29 vertical sections, a legend, a diagram, and a sketch. This area is situated in the Eastern Ruhr region. Area -3 comprises the Tectonic map of the Emscher and Essener with 20 vertical sections, a legend, two diagrams, and two sketches. It is located in the Middle Ruhr region. 
 
+Link to dataset https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
+Link to dataset https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
 
 Digitise Cross-sections
 ========================
