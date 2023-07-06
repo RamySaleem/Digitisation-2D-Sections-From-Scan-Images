@@ -19,6 +19,7 @@ The dataset has been divided into four sub-study areas labelled as Area -1, Area
 1. Link to dataset https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
 2. Link to dataset https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
 3. Link to Google Models https://drive.google.com/drive/folders/1wgVieumdVUn99fagCtYHAmZTF2j5U-th?usp=sharing
+4. All the maps and cross-section of the Ruhr subbasin, lower Rhine basin is available in the North Rhine-Westphalia Geological Survey – State Office – (GD NRW) for a fee https://www.gd.nrw.de/pr_kd.htm
 
 Digitise Cross-sections
 ========================
